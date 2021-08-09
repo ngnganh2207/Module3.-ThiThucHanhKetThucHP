@@ -1,0 +1,10 @@
+down/CRUDProduct.java
+ down.CRUDProduct
+models/Product.java
+ models.Product
+down/ConnectionCSDL.java
+ down.ConnectionCSDL
+services/ProductService.java
+ services.ProductService
+controllers/ProductServlet.java
+ controllers.ProductServlet
